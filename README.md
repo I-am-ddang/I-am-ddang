@@ -15,17 +15,17 @@ CraftBukkit/Spigot/Paper 기반의 환경에서 개발하며 Java/Kotlin 을 사
     <img src="https://github-readme-stats.vercel.app/api?username=I-am-ddang&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="LemonCramel's GitHub stats"/>
 
 ## 시작일 기록
-//Programming & Coding
+### Programming & Coding
 * Bukkit API(Plugin) with Java `21.04.24 ~ `
 * Bukkit API(Plugin) with Kotlin `21.07.26 ~`
 * Bukkit Skript `20.02.09 ~`
 
-//Resourcepack
+### Resourcepack
 * Texturing & Modeling `21.06.20 ~`
 
-//Server Operating
+### Server Operating
 * ScreenShare Technique `22.05.26 ~`
 
-//PVP
+### PVP
 * Minecraft 1.9+ Onlysword PVP `21.12.05 ~`
 * Minecraft 1.9+ CPVP `22.03.08 ~`
