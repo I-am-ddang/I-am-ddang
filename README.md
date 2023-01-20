@@ -16,9 +16,9 @@ CraftBukkit/Spigot/Paper 기반의 환경에서 개발하며 Java/Kotlin 을 사
 
 ## 시작일 기록
 ### Programming & Coding
+* Bukkit Skript `20.02.09 ~`
 * Bukkit API(Plugin) with Java `21.04.24 ~ `
 * Bukkit API(Plugin) with Kotlin `21.07.26 ~`
-* Bukkit Skript `20.02.09 ~`
 
 ### Resourcepack
 * Texturing & Modeling `21.06.20 ~`
