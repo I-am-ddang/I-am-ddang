@@ -1,7 +1,7 @@
-one of common game developers,
-one of common game players,
-one of common human being that make some foolish decision and regret,
-one of common people are trying to live nevertheless.
+one of common game developers, <br>
+one of common game players, <br>
+one of common human being that make some foolish decision and regret, <br>
+one of common people are trying to live nevertheless. <br>
 
 저를 싫어하는 사람, 제가 싫어하는 사람, 제가 좋아하는 사람, 저를 좋아해준 사람들에게 너무나도 많은 상처를 남겼습니다.
 
