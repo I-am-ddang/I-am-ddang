@@ -35,7 +35,7 @@ one of common people are trying to live nevertheless. <br>
 
 유년기의 아무것도 모르는 상태에서 TriggerReact, Bukkit Skript 를 지나 Java Programming 을 배우고 Bukkit Plugin 에 입문하며 지금은 Kotlin 언어를 학습하고 사용해 마인크래프트의 서버측 수정으로 게임모드를 비롯한 콘텐츠를 제작하고 있습니다.<br> 무지했던 제 자신을 팀으로서 받아주고 끝까지 민폐만 끼친 제 의사를 존중해준 Kid_Dragon 과 purun_game 님, Java/Kotlin 언어와 마인크래프트의 내외 개발 생태계에 관련된 지식을 알려주고, 개발을 하려는 의지를 이어가게 해준 A_bins, LemonCaramel, Jellychicken 과 Kobins 님께 말로 표현할 수 없을 정도의 감사를 전하고 싶습니다. 제가 이러한 견문을 넓히는데 있어 가장 많이 도움을 준 Hypixel Network Team 과 방송인 악어의 콘텐츠 크리에이터 팀에게 감사인사를 전합니다.<br>
 
-그리고 쉽사리 젊은 날의 치기로 넘어갈 수 없는 많은 태업과 '프로젝트 진행 중단/연기'로 인해 물심양면으로 피해, 부정적인 영향을 입은 Kid_Dragon, purun_game, luna_manny 님을 비롯한, 가장 최근까지 저를 지지해주셨던 LemonCaramel 님, 제 게임 서버 프로젝트 커뮤니티를 이루고 있는 플레이어분들과 제가 제공하겠다던, 협력 개발하겠다던 콘텐츠의 유의미한 결과를 얻지 못하신 FlagTrue, koyeyu, Filler620, CheeseSand, Acapall, Ludwid_H 님을 포함한 모든 분들께 미안한 마음을 전합니다.<br>
+그리고 쉽사리 젊은 날의 치기로 넘어갈 수 없는 많은 태업과 '프로젝트 진행 중단/연기'로 인해 물심양면으로 피해, 부정적인 영향을 입은 Kid_Dragon, purun_game, luna_manny 님을 비롯한, 가장 최근까지 저를 지지해주셨던 LemonCaramel 님, 제 게임 서버 프로젝트 커뮤니티를 이루고 있는 플레이어분들과 제가 제공하겠다던, 협력 개발하겠다던 콘텐츠의 유의미한 결과를 얻지 못하신 FlagTrue, koyeyu, Filler620, CheeseSand, Acapall, Ludwid_H, 주뇨, 세리시아 님을 포함한 모든 분들께 미안한 마음을 전합니다.<br>
 
 제가 여기서 부정적인 생각만 하며 머무르고 있다는 것이 얼마나 시간을 낭비하는 일인지를 잘 알고 계실거라고 생각합니다.<br>
 언젠가 이렇게 또 넘어진채로 다시 일어서지 못할 날도 있겠지만, 더 나아지려는 마음만은 놓지 않는다는 사실을 알고 이해해주셨으면 합니다. 그렇기에 지금 다시 일어설 힘을 얻을 수 있던 것 같습니다.<br>
